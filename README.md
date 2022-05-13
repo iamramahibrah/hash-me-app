@@ -1,2 +1,2 @@
 # hash-me-app
-HASH APP
+PHP Hash webapp
