@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Source+Code+Pro:wght@300&display=swap');
+
+body {
+    background-color: #D0C3C1;
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    padding-left: 50px;
+}
+
+input{
+    border-radius: 5px;
+    height: 30px;
+    font-size: 15px;
+    border-color: none;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    padding-left: 40px;
+
+}
+
+
+button{
+    border-radius: 5px;
+    height: 35px;
+    font-size: 15px;
+    border-color: none;
+    font-weight: bold;
+}
